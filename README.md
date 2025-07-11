@@ -18,9 +18,6 @@ A user-friendly desktop application for quickly creating and managing profession
     * [Backend (Data Handling & PDF Generation)](#backend-data-handling--pdf-generation)
     * [Frontend (Graphical User Interface)](#frontend-graphical-user-interface)
 6.  [Contributing](#contributing)
-7.  [License](#license)
-8.  [Acknowledgements](#acknowledgements)
-9.  [Contact](#contact)
 
 
 ### 1. About The Project
